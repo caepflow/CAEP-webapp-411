@@ -1,0 +1,18 @@
+id: 497ceee4-a7de-4e44-b287-cdca5ca8eaab
+type: controller
+interactions:
+- targetId: df5754ef-5817-4d9f-a1df-18f1a503b705
+  type: contracts
+  level: component
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    6a70ee51-f16f-445c-be8a-f586cdbfea86:
+      x: 140.5
+      y: 125.5
+name: NewController
+description: Rest API controller
+children:
+- id: ea95a8d0-5b58-4cf6-af53-8da38787c997
+  type: operation
