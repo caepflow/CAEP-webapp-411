@@ -1,0 +1,14 @@
+id: 42906665-9af8-4904-8448-e07b686235db
+type: datasource
+name: NewDatasource
+description: NewDatasource description
+mode: ReadWrite
+rootEntity: NewEntity
+includeAllFields: false
+allowPersistence: false
+fields:
+  - name: Id
+pageSize: 25
+sort:
+  - field: Id
+    direction: Ascending
